@@ -2,12 +2,11 @@ Automation Testing Capstone Project
 Create a Testing Framework for Sporty Shoes Website
 Name : Nitesh mourya
 Email : nimourya@cisco.com
-Github :  https://github.com/niteshmourya976/Exam-ATE-Capstone-Final-Project.git![image](https://github.com/niteshmourya976/Exam-ATE-Capstone-Final-Project/assets/66987305/2b8ec1f0-4516-40bb-ad4d-7387d88c4e4f)
+Github : https://github.com/niteshmourya976/Exam-ATE-Capstone-Final-Project.git![image](https://github.com/niteshmourya976/Exam-ATE-Capstone-Final-Project/assets/66987305/286945f6-1efb-4947-95dd-27dbb994cede)
 
 
 Problem Statement and Motivation Real-Time Scenario:
- Sporty Shoes has a![image](https://github.com/niteshmourya976/Exam-ATE-Capstone-Final-Project/assets/66987305/2ac3543f-c47b-4f2f-8932-8738e333486f)
-n e-commerce website that has the following existing features in place:  I used https://neemans.com/ for the task.
+ Sporty Shoes has a https://github.com/niteshmourya976/Exam-ATE-Capstone-Final-Project.git![image](https://github.com/niteshmourya976/Exam-ATE-Capstone-Final-Project/assets/66987305/4dba4247-ace5-444d-b976-205aa019bed3)  e-commerce website that has the following existing features in place:  I used https://neemans.com/ for the task.
 • Users can view products  , I wrote some functionality for that also .
 • If users want to purchase something, they can first sign up and then log in
 • Users can add multiple items to their cart and do a checkout. 
